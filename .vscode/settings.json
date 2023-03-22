@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "maxNumber.C": "cpp",
+        "pointers.C": "cpp",
+        "enumLabs.C": "cpp",
+        "variableLabs.C": "cpp",
+        "literalsLabs.C": "cpp",
+        "char_array.C": "cpp",
+        "iostream": "cpp",
+        "typeDef.C": "cpp",
+        "meanCalc.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
