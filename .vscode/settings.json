@@ -8,7 +8,8 @@
         "char_array.C": "cpp",
         "iostream": "cpp",
         "typeDef.C": "cpp",
-        "meanCalc.C": "cpp"
+        "meanCalc.C": "cpp",
+        "mystring.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
